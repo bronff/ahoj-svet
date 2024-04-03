@@ -1,0 +1,2 @@
+# ahoj-svet
+učenie gh
